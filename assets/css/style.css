@@ -1,0 +1,9 @@
+@media only screen and (min-width: 768px){
+    .right-float{
+        float:right;
+    }
+    .icon-size {
+        max-height: 30px;
+        padding: 10px;
+    }
+}
